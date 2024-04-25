@@ -1,5 +1,8 @@
 # Datacom-Job-Sim
 
+
+![images (1)](https://github.com/Abdurr224/Datacom-Job-Sim/assets/166424757/1c7eb2d2-7efd-44b4-8280-22021df04062)
+
 Achievments:
 
 - Completed a job task focussed on how Datacom's cybersecurity team helps protect it's clients.
